@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=bO-NaEj2dQ0",
+        "name": "MTC",
+        "artist": "S3RL",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=Ec4YbVP9R-A",
+        "name": "Last Surprise",
+        "artist": "Persona 5",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=RQXe22auYOw",
+        "name": "Time To Say Goodbye",
+        "artist": "RWBY",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "name": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://www.youtube.com/watch?v=usXhiWE2Uc0",
+        "name": "Till It's Over",
+        "artist": "Mosntercat",
+        "soundId": "sound.mcdisc.5"
+    }
+]
