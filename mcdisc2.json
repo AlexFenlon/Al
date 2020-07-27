@@ -114,17 +114,9 @@
     {
         "id": 15,
         "minecraftId": "item.mcdisc.15",
-        "url": "https://www.youtube.com/watch?v=_oLzX0RPquk",
-        "name": "Pumped Up Kicks",
-        "artist": "Foster The People",
-        "soundId": "sound.mcdisc.15"
-    },
-    {
-        "id": 16,
-        "minecraftId": "item.mcdisc.16",
         "url": "https://www.youtube.com/watch?v=0XFudmaObLI",
-        "name": "Dancin'",
-        "artist": "Aaron Smith"
-        "soundId": "sound.mcdisc.16"
+        "name": "Dancin",
+        "artist": "Aaron Smith",
+        "soundId": "sound.mcdisc.15"
     }
 ]
