@@ -36,7 +36,95 @@
         "minecraftId": "item.mcdisc.5",
         "url": "https://www.youtube.com/watch?v=usXhiWE2Uc0",
         "name": "Till It's Over",
-        "artist": "Mosntercat",
+        "artist": "Monstercat",
         "soundId": "sound.mcdisc.5"
+    },
+    {
+        "id": 6,
+        "minecraftId": "item.mcdisc.6",
+        "url": "https://www.youtube.com/watch?v=RQXe22auYOw",
+        "name": "Time To Say Goodbye",
+        "artist": "RWBY",
+        "soundId": "sound.mcdisc.6"
+    },
+    {
+        "id": 7,
+        "minecraftId": "item.mcdisc.7",
+        "url": "https://www.youtube.com/watch?v=Cu61qgp6XoE",
+        "name": "The Only Thing They Fear",
+        "artist": "Mick Gordom",
+        "soundId": "sound.mcdisc.7"
+    },
+    {
+        "id": 8,
+        "minecraftId": "item.mcdisc.8",
+        "url": "https://www.youtube.com/watch?v=7aMOurgDB-o",
+        "name": "Unravel - Opening Theme",
+        "artist": "Tokyo Ghoul",
+        "soundId": "sound.mcdisc.8"
+    },
+    {
+        "id": 9,
+        "minecraftId": "item.mcdisc.9",
+        "url": "https://www.youtube.com/watch?v=_eOg4xaNCbs",
+        "name": "Mr. Blue Sky",
+        "artist": "Electric Light Orchrestra",
+        "soundId": "sound.mcdisc.9"
+    },
+    {
+        "id": 10,
+        "minecraftId": "item.mcdisc.10",
+        "url": "https://www.youtube.com/watch?v=zzICMIu5zFY",
+        "name": "Big Iron",
+        "artist": "Fallout New Vegas",
+        "soundId": "sound.mcdisc.10"
+    },
+    {
+        "id": 11,
+        "minecraftId": "item.mcdisc.11",
+        "url": "https://www.youtube.com/watch?v=8Fp_7xkhtHw",
+        "name": "Gas Mask",
+        "artist": "Rare American",
+        "soundId": "sound.mcdisc.11"
+    },
+    {
+        "id": 12,
+        "minecraftId": "item.mcdisc.12",
+        "url": "https://www.youtube.com/watch?v=PZbkF-15ObM",
+        "name": "C2C",
+        "artist": "Delta",
+        "soundId": "sound.mcdisc.12"
+    },
+    {
+        "id": 13,
+        "minecraftId": "item.mcdisc.13",
+        "url": "https://www.youtube.com/watch?v=RQXe22auYOw",
+        "name": "Time To Say Goodbye",
+        "artist": "RWBY",
+        "soundId": "sound.mcdisc.13"
+    },
+    {
+        "id": 14,
+        "minecraftId": "item.mcdisc.14",
+        "url": "https://www.youtube.com/watch?v=mhMuXitm-8Y&feature=youtu.be",
+        "name": "Lone Digger",
+        "artist": "Caravan Palace",
+        "soundId": "sound.mcdisc.14"
+    },
+    {
+        "id": 15,
+        "minecraftId": "item.mcdisc.15",
+        "url": "https://www.youtube.com/watch?v=_oLzX0RPquk",
+        "name": "Pumped Up Kicks",
+        "artist": "Foster The People",
+        "soundId": "sound.mcdisc.15"
+    },
+    {
+        "id": 16,
+        "minecraftId": "item.mcdisc.16
+        "url": "https://www.youtube.com/watch?v=RQXe22auYOw",
+        "name": "Dancin'",
+        "artist": "Aaron Smith"
+        "soundId": "sound.mcdisc.16"
     }
 ]
